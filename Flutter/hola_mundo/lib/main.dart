@@ -17,7 +17,7 @@ class MiApp extends StatelessWidget {
         ),
         body: const Center(
           child: Text(
-            'Hola Mundo',
+            'Hola Mund',
             style: TextStyle(
               fontSize: 30,
               fontWeight: FontWeight.bold,
